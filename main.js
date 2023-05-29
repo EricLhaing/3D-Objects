@@ -130,5 +130,5 @@ function main() {
   requestAnimationFrame(render);
 
 }
-
+console.log("loading file");
 main();
